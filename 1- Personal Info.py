@@ -1,0 +1,5 @@
+print('Abraham Aruguete')
+print('1601 West Sherrie Drive, Flagstaff, AZ, 86001')
+print('928-245-4112')
+print('Not in college yet lmao')
+input('prompt: ')
