@@ -1,5 +1,6 @@
 # pre-college-dump
-A pre-college dump of various challenges, books, etc \n
+A pre-college dump of various challenges, books, etc
+
 These are personal projects committed before the end of the school year in 2019. These represent my high-school experience
 with coding.
 
